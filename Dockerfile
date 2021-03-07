@@ -1,1 +1,1 @@
-FROM docker.io/library/rabbitmq:3.8.12
+FROM docker.io/library/rabbitmq:3.8.14
